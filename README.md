@@ -1,6 +1,6 @@
 # Welcome to StonksPad
 
-**StonksPad is a meme-token launchpad on BNB Chain where every token pays its holders in tokenized stocks.**
+**StonksPad is a token launchpad on BNB Chain where every token pays its holders in tokenized stocks.**
 
 Launch a token in one click, pick the stocks it should reward its holders with (Nvidia, Tesla, SpaceX, the Nasdaq-100 and more), and let the trading taxes do the rest. Creators earn fees, holders earn stocks, and the platform's own share buys and burns **$STONKS**.
 
@@ -26,4 +26,4 @@ StonksPad runs on [Flap](https://flap.sh) infrastructure, the largest launchpad 
 - [Contracts](contracts.md)
 - [FAQ](faq.md)
 
-Website: [stonkspad.sh](https://stonkspad.sh) · X: [@StonksPad](https://x.com/StonksPad)
+Website: [stonkspad.sh](https://stonkspad.sh) · X: [@stonksbnb](https://x.com/stonksbnb)

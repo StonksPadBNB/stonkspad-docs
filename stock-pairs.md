@@ -4,7 +4,7 @@ A "stock pair" is an asset a token rewards its holders with. Every launch includ
 
 ## Available assets (BNB Chain mainnet)
 
-33 assets are registered today: 21 on the **RWA** tab (tokenized stocks, ETFs and gold) and 12 on the **Crypto** tab. The tables below mirror the on-chain registry of the StonksPad Vault Factory (last updated 2026-09-21).
+34 assets are listed today: 21 on the **RWA** tab (tokenized stocks, ETFs and gold) and 13 on the **Crypto** tab. The token rows mirror the on-chain registry of the StonksPad Vault Factory; BNB is the chain's native coin rather than a registry token (last updated 2026-09-21).
 
 ### RWA tab
 
@@ -37,6 +37,7 @@ A "stock pair" is an asset a token rewards its holders with. Every launch includ
 | Symbol | Underlying | Issuer / type | Price source | Tab |
 |---|---|---|---|---|
 | STONKS | StonksPad platform token | — | PancakeSwap V2 TWAP (required in every launch) | CRYPTO |
+| BNB | BNB (native) | — | Chainlink BNB/USD | CRYPTO |
 | ASTER | Aster | Native BEP-20 | Chainlink | CRYPTO |
 | BTCB | Bitcoin | Binance-Peg token | Chainlink | CRYPTO |
 | DOGE | Dogecoin | Binance-Peg token | Chainlink | CRYPTO |
