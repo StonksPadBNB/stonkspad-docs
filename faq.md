@@ -16,7 +16,7 @@ Distributions are computed off-chain and independently verified. 30 minutes afte
 No. Rewards sit in the vault until you claim them; there is no withdrawal function for the operator. See [Security](security.md).
 
 **What are the stock tokens exactly?**
-Tokenized stocks issued on BNB Chain (currently Binance's bStocks). They are regular BEP-20 tokens tracking the underlying share price.
+Mostly tokenized stocks and ETFs issued on BNB Chain (Binance's bStocks, plus an Ondo ETF token and Tether Gold), and a Crypto tab with major assets such as BTCB, ETH, SOL and stablecoins. They are regular BEP-20 tokens; the full list is on the [Stock pairs](stock-pairs.md) page and grows over time.
 
 **Can I add my own asset as a pair?**
 Not yet. Assets are added by StonksPad after a liquidity and price-source check. Suggestions are welcome on X.
