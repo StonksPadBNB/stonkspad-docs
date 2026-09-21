@@ -12,16 +12,16 @@ Every StonksPad token is a **Flap tax token**: a small tax is charged on each bu
         ┌──────────────────────┐
         │   StonksPad Vault    │  one vault per token
         └──────────────────────┘
-          │            │            │
-   platform fee   creator fees   stock pool
-          │            │            │
-     Treasury      claimable    buys the chosen
-   80% burn STONKS  by wallet   stock tokens on
-   10% NFT holders  or X handle PancakeSwap
-   10% platform                     │
-                                    ▼
-                          holder distributions
-                          (claim on the site)
+          │               │            │
+   platform fee      creator fees   stock pool
+          │               │            │
+     Treasury         claimable    buys the chosen
+   80% burn STONKS     by wallet   stock tokens on
+   10% Broker Reserve  or X handle PancakeSwap
+   10% platform                        │
+                                       ▼
+                             holder distributions
+                             (claim on the site)
 ```
 
 ## Step by step

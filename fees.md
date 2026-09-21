@@ -25,7 +25,7 @@ StonksPad's 10% does not go to a company wallet. It goes to the **Treasury** con
 | Share | Use |
 |---|---|
 | **80%** | Buys $STONKS on PancakeSwap and burns it permanently. |
-| **10%** | StonksPad NFT holders. |
+| **10%** | Stonks Broker Reserve |
 | **10%** | Platform operations. |
 
 The split is hard-coded in the Treasury contract and can be verified on-chain.
