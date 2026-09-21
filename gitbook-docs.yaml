@@ -1,0 +1,13 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
+site:
+  title: StonksPad
+  structure:
+    - type: space
+      key: space-docs
+      title: StonksPad Docs
+      path: docs
+      default: true
+      content:
+        directory: ./
+        language: en
