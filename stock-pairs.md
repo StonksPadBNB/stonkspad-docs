@@ -4,7 +4,7 @@ A "stock pair" is an asset a token rewards its holders with. Every launch includ
 
 ## Available assets (BNB Chain mainnet)
 
-32 assets are registered today: 20 on the **RWA** tab (tokenized stocks, ETFs and gold) and 12 on the **Crypto** tab. The tables below mirror the on-chain registry of the StonksPad Vault Factory (last updated 2026-09-21).
+33 assets are registered today: 21 on the **RWA** tab (tokenized stocks, ETFs and gold) and 12 on the **Crypto** tab. The tables below mirror the on-chain registry of the StonksPad Vault Factory (last updated 2026-09-21).
 
 ### RWA tab
 
@@ -21,6 +21,7 @@ A "stock pair" is an asset a token rewards its holders with. Every launch includ
 | TSLAB | Tesla | bStocks | Chainlink | RWA |
 | XAUT | Gold (1 troy ounce) | Tether Gold | Chainlink | RWA |
 | BABAB | Alibaba | bStocks | PancakeSwap V3 TWAP | RWA |
+| BNCB | CEA Industries | bStocks | PancakeSwap V3 TWAP | RWA |
 | CRCLB | Circle | bStocks | PancakeSwap V3 TWAP | RWA |
 | FXIon | China Large-Cap ETF (FXI) | Ondo | PancakeSwap V3 TWAP | RWA |
 | HOODB | Robinhood | bStocks | PancakeSwap V3 TWAP | RWA |

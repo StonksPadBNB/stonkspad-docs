@@ -27,7 +27,7 @@ A token was launched by StonksPad if its creation transaction emitted `FlapTaxVa
 
 ## Reward assets (stock registry)
 
-Every asset a launch can reward its holders with is registered in the Vault Factory. 32 assets are registered today ($STONKS, listed above, plus the 31 below). The list grows over time; the authoritative source is the factory itself: `getStockList()` and `getStock(address)`.
+Every asset a launch can reward its holders with is registered in the Vault Factory. 33 assets are registered today ($STONKS, listed above, plus the 32 below). The list grows over time; the authoritative source is the factory itself: `getStockList()` and `getStock(address)`.
 
 | Symbol | Tab | Address |
 |---|---|---|
@@ -42,6 +42,7 @@ Every asset a launch can reward its holders with is registered in the Vault Fact
 | TSLAB | RWA | `0x5b1910eAaD6450E50f816082Aa078C41F10C292f` |
 | XAUT | RWA | `0x21cAef8A43163Eea865baeE23b9C2E327696A3bf` |
 | BABAB | RWA | `0x4eF9d3062c7F6ebA4AAE4990c5036598C6eff4ec` |
+| BNCB | RWA | `0x4902C5ebc598265Ed2212b559B042De8a5Eeec3f` |
 | CRCLB | RWA | `0x80f3D493EBCe97e343c53D29a137942416B4ffC0` |
 | FXIon | RWA | `0x9b8E987e6fEc8Cf1380C4dcA7071e2C7853AEEA1` |
 | HOODB | RWA | `0xA394dCEa3fd3847fD793afBFd163E2e3858B7c65` |
