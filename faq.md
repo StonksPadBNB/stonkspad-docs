@@ -28,4 +28,4 @@ The token moves to PancakeSwap V2 with locked liquidity. Taxes, vaults, rewards 
 10% of trading taxes, of which 80% is used to buy and burn $STONKS. See [Fees](fees.md).
 
 **Is the code open?**
-Yes. Every contract is verified on BscScan; the vault follows Flap's public vault specification.
+Yes. Every contract is verified on BscScan. The vault is built to Flap's public vault specification and its source is verified on BscScan. There is no third-party security audit yet.

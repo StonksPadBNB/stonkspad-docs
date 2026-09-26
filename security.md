@@ -33,7 +33,7 @@ Vault purchases are checked against a reference price (Chainlink, or an on-chain
 
 ## Upgrades
 
-Vaults are upgradeable beacon proxies. The only address that can upgrade them is **Flap's Guardian** — not StonksPad. Any upgrade goes through Flap's review.
+Vaults are upgradeable beacon proxies. The only address that can upgrade them is **Flap's Guardian** — not StonksPad. An upgrade can only be executed by Flap's Guardian.
 
 ## Custodial wallets
 
@@ -41,8 +41,7 @@ Users who sign in with X get a wallet whose key is managed by a separate signer 
 
 ## Audits
 
-- Vault contracts pass Flap's vault specification checks (no failures).
-- Independent review of the web application and signer (red-team), findings fixed.
-- Flap partner audit: *pending / in progress* — this page will link the report when available.
+The vault is built to Flap's public vault specification and its source is verified on BscScan. There is no third-party security audit yet.
 
-Contract source is verified on BscScan for every deployed contract.
+- Internal red-team reviews of the web application and the signer (findings fixed) — not a third-party audit.
+- Contract source is verified on BscScan for every deployed contract, and every vault is visible on flap.sh.
